@@ -1,0 +1,6 @@
+mkdir git_practice 
+cd git_practice 
+git init
+echo "Hello Git and GitHub" >> README.txt to create a new README file (more on this later) with some sample text.
+git add README.txt
+git commit -m "First commit" 
